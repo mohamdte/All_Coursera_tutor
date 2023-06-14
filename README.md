@@ -1,2 +1,2 @@
-# June-class
-this is for training purpose only!
+# Coursera tutor
+This is for training purpose only!
